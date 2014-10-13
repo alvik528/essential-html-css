@@ -44,6 +44,7 @@ h2, h3 {
 
 h2 {
 	font-size: 150%;
+	margin: 0px;
 }
 
 h3 {
@@ -80,7 +81,6 @@ header, #information, #menu, #about, footer {
 #menu {
 	background-color: rgb(207,205,140);
 	opacity: 0.9;
-	font-size: 80%;
 }
 dt {
 	font-weight: 400;
@@ -88,6 +88,7 @@ dt {
 
 dd {
 	font-style: italic;
+	font-size: 80%;
 }
 
 #about {
